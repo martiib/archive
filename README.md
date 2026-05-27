@@ -2,6 +2,7 @@
 
 Client Archive Management System (Python + SQLite)
 Project Overview
+
 This project is a client archive management system built in Python.
 It allows users to manage client data through a command-line interface using SQLite for storage and Pandas for data display.
 It is an improved version of a previous file-based system, created to practice object-oriented programming and database handling in Python.
